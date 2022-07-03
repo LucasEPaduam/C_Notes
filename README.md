@@ -1,9 +1,9 @@
 <h1 align="left">
-    <img src="https://github.com/LucasEPaduam/C_Notes/blob/main/Abertura1.PNG; "/> 
-     <img src="https://github.com/LucasEPaduam/C_Notes/blob/main/Menu.PNG; "/> 
-    
+    <img src="https://github.com/LucasEPaduam/C_Notes/blob/main/Abertura1.PNG?raw=true"/>
 </h1>
-
+<h1 align="left">
+ <img src="https://github.com/LucasEPaduam/C_Notes/blob/main/Menu.PNG?raw=true"/> 
+</h1>
 # C_Notes
 Programa desenvolvido em linguagem C para criação, edição e armazenamento de notas rápidas.
 As notas são salvas em arquivos txt e podem ser lidas pelo próprio aplicativo.
