@@ -1,7 +1,7 @@
 
 # C_Notes
 Programa desenvolvido em linguagem C para criação, edição e armazenamento de notas rápidas.
-As notas são salvas em arquivos txt e podem ser lidas pelo próprio aplicativo.
+Uma aplicação de console onde notas são salvas em arquivos txt e podem ser lidas pelo próprio aplicativo.
 Disciplina de LP1.
 
 ## Tecnologia Utilizada
