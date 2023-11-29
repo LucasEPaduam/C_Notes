@@ -6,6 +6,7 @@ Disciplina de LP1.
 
 ## Tecnologia Utilizada
 
+[<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />](https://www.ibm.com/docs/pt/i/7.2?topic=languages-c-c)
 - [Code::Blocks IDE 20.03](https://www.codeblocks.org/downloads/)
 
 <h1 align="left">
